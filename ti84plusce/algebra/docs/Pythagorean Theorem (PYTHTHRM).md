@@ -27,3 +27,10 @@ This function uses the following formula to calculate the result, where `A` is t
 ```
 sqrt( H^2 - A^2 )
 ```
+
+# Supported Calculators
+This program should be able to run without errors on the following calculators:
+- TI-84 Plus CE *(Tested)*
+
+## Compatibility Issues
+This program uses the `toString` method which is only supported on the TI-84 Plus CE.
