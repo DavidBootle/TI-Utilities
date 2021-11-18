@@ -33,5 +33,5 @@ This program supports the following calculators:
 - TI-84 Plus CE *(Tested)*
 
 ## Compatibility Issues
-This program has no obvious compatibility issues with any TI-83 or TI-84 series calculators. However it should be noted that it has only been tested on the TI-84 Plus CE. 
+This program has no obvious compatibility issues with any TI-83 or TI-84 series calculators. However it should be noted that it has only been tested on the TI-84 Plus CE. If you encounter errors while using one of the supported calculators, please report a bug using the issue tracker.
 
